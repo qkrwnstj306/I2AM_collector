@@ -1,0 +1,16 @@
+# Ignore image files
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.gif
+**/*.bmp
+**/*.tiff
+**/*.svg
+**/*.webp
+**/.git/
+
+# Ignore checkpoint files
+**/*.ckpt
+
+# Ignore pycache directories
+**/__pycache__/
